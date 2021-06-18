@@ -175,6 +175,7 @@ zip	じっぷ	Web用語
 チュートリアル	ちゅーとりある	Web用語
 ディレクトリ	でぃれくとり	Web用語
 データソース	でーたそーす	Web用語
+データベース	でーたべーす	Web用語
 テキスト	てきすと	Web用語
 デザイナー	でざいなー	Web用語
 デザイン	でざいん	Web用語
@@ -351,6 +352,10 @@ WordPress Meetup	わーどぷれすみーとあっぷ	WordPress
 WordPress.com	わーどぷれすどっとこむ	WordPress
 WordPress.org	わーどぷれすどっとおるぐ	WordPress
 WordPressフォーラム	わーどぷれすふぉーらむ	WordPress
+wp-env	だぶりゅぴーえんぶ	WordPress
+wp-env	だぶるぴーえんぶ	WordPress
+WP_Query	だぶりゅぴーくえりー	WordPress
+WP_Query	だぶるぴーくえりー	WordPress
 wp_register_script	だぶりゅぴーれじすたーすくりぷと	WordPress
 WP.com	だぶりゅぴーどっとこむ	WordPress
 アイキャッチ	あいきゃっち	WordPress
@@ -371,11 +376,14 @@ WP.com	だぶりゅぴーどっとこむ	WordPress
 コミッター	こみったー	WordPress
 コントリビューター	こんとりびゅーたー	WordPress
 コントリビューターデイ	こんとりびゅーたーでい	WordPress
+コントリビュート	こんとりびゅーと	WordPress
 サポートフォーラム	さぽーとふぉーらむ	WordPress
+ショートコード	しょーとこーど	WordPress
 セッション	せっしょん	WordPress
 セッションデイ	せっしょんでい	WordPress
 セッションリスト	せっしょんりすと	WordPress
 ツールバー	つーるばー	WordPress
+ダイナミックブロック	だいなみっくぶろっく	WordPress
 テーマ	てーま	WordPress
 テンプレートタグ	てんぷれーとたぐ	WordPress
 バグレポート	ばぐれぽーと	WordPress
@@ -383,6 +391,7 @@ WP.com	だぶりゅぴーどっとこむ	WordPress
 プラグイン	ぷらぐいん	WordPress
 ブロックエディター	ぶろっくえでぃた	WordPress
 ブロックエディター	ぶろっくえでぃたー	WordPress
+ブロックテンプレート	ぶろっくてんぷれーと	WordPress
 ブロックツールバー	ぶろっくつーるばー	WordPress
 ブロックナビゲーション	ぶろっくなびげーしょん	WordPress
 ブロックパターン	ぶろっくぱたーん	WordPress
@@ -559,7 +568,7 @@ Broken Link Checker	ぶろーくんりんくちぇっかー	プラグイン
 Classic Editor	くらしっくえでぃたー	プラグイン
 Contact Form 7	こんたくとふぉーむせぶん	プラグイン
 Contact Form 7 Serial Numbers	こんたくとふぉーむせぶんしりあるなんばーず	プラグイン
-Custom Block Patterns 	かすたむぶろっくぱたーんず	プラグイン
+Custom Block Patterns	かすたむぶろっくぱたーんず	プラグイン
 Custom Post Type Permalinks	かすたむぽすとたいぷぱーまりんくす	プラグイン
 Custom Post Type UI	かすたむぽすとたいぷゆーあい	プラグイン
 Disable Comments	でぃすえいぶるこめんつ	プラグイン
@@ -815,7 +824,7 @@ Web解析	うぇぶかいせき	マーケティング
 決済代行	けっさいだいこう	マーケティング
 検索エンジン	けんさくえんじん	マーケティング
 検索キーワード	けんさくきーわーど	マーケティング
-検索クエリ	けんさくくえる	マーケティング
+検索クエリ	けんさくくえり	マーケティング
 検索ボリューム	けんさくぼりゅーむ	マーケティング
 検証	けんしょう	マーケティング
 効果検証	こうかけんしょう	マーケティング
@@ -874,3 +883,4 @@ WordCamp Yokohama	わーどきゃんぷよこはま	名前
 WordFes Nagoya	わーどふぇすなごや	名前
 WP ZoomUP	だぶりゅぴーずーむあっぷ	名前
 WP ZoomUP	だぶるぴーずーむあっぷ	名前
+ご清聴	ごせいちょう	イベント
